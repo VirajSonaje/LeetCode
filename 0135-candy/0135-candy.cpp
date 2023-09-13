@@ -10,7 +10,7 @@ public:
             if(ratings[i] > ratings[i+1]) ans[i] = max(ans[i+1]+1, ans[i]);
         }
         int a =0;
-        for(int i: ans) a+=i, cout<<i<<" ";
+        for(int i: ans) a+=i;
         return a;
     }
 };
