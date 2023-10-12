@@ -14,19 +14,15 @@ public:
         for(auto i = mp.begin(); i!=mp.end(); i++){
             i->second+=prev;
             prev = i->second;
-            // cout<<i->first<<" "<<i->second<<endl;
         }
-        cout<<endl;
         vector<int> ans;
         for(int p: people){
             if(p < minf || p > maxf) {
                 ans.push_back(0);
-                // cout<<p<<" "<<0<<endl;
             }
             else{
                 auto k = mp.lower_bound(p);
                 if(k->first > p) k--;
-                // cout<<k->first<<" "<<k->second<<endl;
                 ans.push_back(k->second);
             }
             
