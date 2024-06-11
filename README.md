@@ -6,6 +6,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/VirajSonaje/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0747-min-cost-climbing-stairs](https://github.com/VirajSonaje/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VirajSonaje/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/VirajSonaje/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/VirajSonaje/LeetCode/tree/master/1217-relative-sort-array) |
@@ -34,3 +35,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | ------- |
 | [1137-height-checker](https://github.com/VirajSonaje/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/VirajSonaje/LeetCode/tree/master/1217-relative-sort-array) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/VirajSonaje/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
