@@ -7,6 +7,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/VirajSonaje/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VirajSonaje/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1137-height-checker](https://github.com/VirajSonaje/LeetCode/tree/master/1137-height-checker) |
 # Hash Table
 |  |
 | ------- |
@@ -21,3 +22,11 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/VirajSonaje/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VirajSonaje/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+# Sorting
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/VirajSonaje/LeetCode/tree/master/1137-height-checker) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/VirajSonaje/LeetCode/tree/master/1137-height-checker) |
