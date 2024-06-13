@@ -11,6 +11,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [1016-subarray-sums-divisible-by-k](https://github.com/VirajSonaje/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/VirajSonaje/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/VirajSonaje/LeetCode/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/VirajSonaje/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0075-sort-colors](https://github.com/VirajSonaje/LeetCode/tree/master/0075-sort-colors) |
 | [1137-height-checker](https://github.com/VirajSonaje/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/VirajSonaje/LeetCode/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/VirajSonaje/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
 |  |
 | ------- |
@@ -45,3 +47,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/VirajSonaje/LeetCode/tree/master/0075-sort-colors) |
+# Greedy
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/VirajSonaje/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
