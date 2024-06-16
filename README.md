@@ -6,6 +6,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/VirajSonaje/LeetCode/tree/master/0075-sort-colors) |
+| [0330-patching-array](https://github.com/VirajSonaje/LeetCode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/VirajSonaje/LeetCode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/VirajSonaje/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/VirajSonaje/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -55,6 +56,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/VirajSonaje/LeetCode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/VirajSonaje/LeetCode/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/VirajSonaje/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/VirajSonaje/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
