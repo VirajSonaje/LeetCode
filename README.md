@@ -14,6 +14,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0982-minimum-increment-to-make-array-unique](https://github.com/VirajSonaje/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VirajSonaje/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/VirajSonaje/LeetCode/tree/master/1137-height-checker) |
+| [1138-grumpy-bookstore-owner](https://github.com/VirajSonaje/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/VirajSonaje/LeetCode/tree/master/1217-relative-sort-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/VirajSonaje/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/VirajSonaje/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -77,3 +78,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0853-most-profit-assigning-work](https://github.com/VirajSonaje/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/VirajSonaje/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/VirajSonaje/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/VirajSonaje/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
