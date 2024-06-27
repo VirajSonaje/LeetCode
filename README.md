@@ -126,3 +126,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/VirajSonaje/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/VirajSonaje/LeetCode/tree/master/1916-find-center-of-star-graph) |
