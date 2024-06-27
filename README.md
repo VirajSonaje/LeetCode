@@ -6,6 +6,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/VirajSonaje/LeetCode/tree/master/0075-sort-colors) |
+| [0162-find-peak-element](https://github.com/VirajSonaje/LeetCode/tree/master/0162-find-peak-element) |
 | [0330-patching-array](https://github.com/VirajSonaje/LeetCode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/VirajSonaje/LeetCode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/VirajSonaje/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -115,6 +116,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 # Binary Search Tree
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/VirajSonaje/LeetCode/tree/master/0162-find-peak-element) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/VirajSonaje/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/VirajSonaje/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
