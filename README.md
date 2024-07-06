@@ -204,4 +204,5 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/VirajSonaje/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/VirajSonaje/LeetCode/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
