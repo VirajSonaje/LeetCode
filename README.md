@@ -167,6 +167,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/0002-add-two-numbers) |
+| [0089-gray-code](https://github.com/VirajSonaje/LeetCode/tree/master/0089-gray-code) |
 | [1642-water-bottles](https://github.com/VirajSonaje/LeetCode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/VirajSonaje/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Recursion
@@ -227,6 +228,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/VirajSonaje/LeetCode/tree/master/0089-gray-code) |
 | [0187-repeated-dna-sequences](https://github.com/VirajSonaje/LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Sliding Window
 |  |
@@ -243,6 +245,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/VirajSonaje/LeetCode/tree/master/0089-gray-code) |
 | [0216-combination-sum-iii](https://github.com/VirajSonaje/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Tree
 |  |
