@@ -141,10 +141,12 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/VirajSonaje/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/VirajSonaje/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/VirajSonaje/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/VirajSonaje/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
 |  |
@@ -242,4 +244,12 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [0216-combination-sum-iii](https://github.com/VirajSonaje/LeetCode/tree/master/0216-combination-sum-iii) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/VirajSonaje/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/VirajSonaje/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
