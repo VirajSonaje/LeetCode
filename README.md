@@ -215,10 +215,12 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0006-zigzag-conversion](https://github.com/VirajSonaje/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/VirajSonaje/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0187-repeated-dna-sequences](https://github.com/VirajSonaje/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VirajSonaje/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/VirajSonaje/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VirajSonaje/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/VirajSonaje/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Bit Manipulation
 |  |
