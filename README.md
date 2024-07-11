@@ -180,6 +180,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | ------- |
 | [0216-combination-sum-iii](https://github.com/VirajSonaje/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VirajSonaje/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0554-brick-wall](https://github.com/VirajSonaje/LeetCode/tree/master/0554-brick-wall) |
 | [1293-three-consecutive-odds](https://github.com/VirajSonaje/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1720-crawler-log-folder](https://github.com/VirajSonaje/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/VirajSonaje/LeetCode/tree/master/1803-average-waiting-time) |
@@ -188,6 +189,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/VirajSonaje/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VirajSonaje/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0554-brick-wall](https://github.com/VirajSonaje/LeetCode/tree/master/0554-brick-wall) |
 ## Two Pointers
 |  |
 | ------- |
