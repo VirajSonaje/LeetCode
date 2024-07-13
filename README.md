@@ -184,6 +184,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0216-combination-sum-iii](https://github.com/VirajSonaje/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VirajSonaje/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0554-brick-wall](https://github.com/VirajSonaje/LeetCode/tree/master/0554-brick-wall) |
+| [0729-my-calendar-i](https://github.com/VirajSonaje/LeetCode/tree/master/0729-my-calendar-i) |
 | [1293-three-consecutive-odds](https://github.com/VirajSonaje/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1720-crawler-log-folder](https://github.com/VirajSonaje/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/VirajSonaje/LeetCode/tree/master/1803-average-waiting-time) |
@@ -202,6 +203,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VirajSonaje/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0729-my-calendar-i](https://github.com/VirajSonaje/LeetCode/tree/master/0729-my-calendar-i) |
 ## Sorting
 |  |
 | ------- |
@@ -265,4 +267,16 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/VirajSonaje/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/VirajSonaje/LeetCode/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/VirajSonaje/LeetCode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/VirajSonaje/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
