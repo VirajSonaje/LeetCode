@@ -173,6 +173,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0002-add-two-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/0002-add-two-numbers) |
 | [0089-gray-code](https://github.com/VirajSonaje/LeetCode/tree/master/0089-gray-code) |
 | [0264-ugly-number-ii](https://github.com/VirajSonaje/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/VirajSonaje/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/VirajSonaje/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/VirajSonaje/LeetCode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/VirajSonaje/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -331,6 +332,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/VirajSonaje/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/VirajSonaje/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VirajSonaje/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
 |  |
