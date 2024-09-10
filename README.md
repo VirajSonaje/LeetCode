@@ -171,6 +171,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [1484-linked-list-in-binary-tree](https://github.com/VirajSonaje/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/VirajSonaje/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/VirajSonaje/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/VirajSonaje/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VirajSonaje/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -183,6 +184,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0870-magic-squares-in-grid](https://github.com/VirajSonaje/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/VirajSonaje/LeetCode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/VirajSonaje/LeetCode/tree/master/2645-pass-the-pillow) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/VirajSonaje/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -365,4 +367,8 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/VirajSonaje/LeetCode/tree/master/0264-ugly-number-ii) |
+## Number Theory
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/VirajSonaje/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
