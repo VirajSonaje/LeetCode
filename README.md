@@ -206,6 +206,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [1207-delete-nodes-and-return-forest](https://github.com/VirajSonaje/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/VirajSonaje/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1435-xor-queries-of-a-subarray](https://github.com/VirajSonaje/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/VirajSonaje/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/VirajSonaje/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/VirajSonaje/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -292,6 +293,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | ------- |
 | [0089-gray-code](https://github.com/VirajSonaje/LeetCode/tree/master/0089-gray-code) |
 | [0187-repeated-dna-sequences](https://github.com/VirajSonaje/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [1435-xor-queries-of-a-subarray](https://github.com/VirajSonaje/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/VirajSonaje/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/VirajSonaje/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Sliding Window
@@ -377,4 +379,8 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/VirajSonaje/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/VirajSonaje/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
