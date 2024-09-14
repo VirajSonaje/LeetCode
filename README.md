@@ -218,6 +218,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [2163-kth-distinct-string-in-an-array](https://github.com/VirajSonaje/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/VirajSonaje/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/VirajSonaje/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/VirajSonaje/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2846-robot-collisions](https://github.com/VirajSonaje/LeetCode/tree/master/2846-robot-collisions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VirajSonaje/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -296,6 +297,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [1435-xor-queries-of-a-subarray](https://github.com/VirajSonaje/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/VirajSonaje/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/VirajSonaje/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/VirajSonaje/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Sliding Window
 |  |
 | ------- |
@@ -383,4 +385,8 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/VirajSonaje/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/VirajSonaje/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
