@@ -1,20 +1,19 @@
 class Solution {
 public:
     int longestSubarray(vector<int>& nums) {
-        int maxBitwiseAnd = *max_element(nums.begin(),nums.end());
-        int maxi = 1;
-        int count = 0;
-        int i = 0;
-        while(i < nums.size())
-        {
-            if(nums[i] == maxBitwiseAnd)
-            {
-                while(i < nums.size() and nums[i++] == maxBitwiseAnd) count++;
-                maxi = max(maxi,count);
-                count = 0;
+        int len = 1;
+        int mx = *max_element(nums.begin(),nums.end()); //O(n)
+        int tmp_len=0;
+        for(int i=0;i<nums.size();i++){ 
+            if(nums[i]==mx){
+                tmp_len++;
             }
-            else i++;
+            else{
+                len = max(len, tmp_len);
+                tmp_len=0;
+            }
         }
-        return maxi;
+        len = max(len, tmp_len);
+        return len;
     }
 };
