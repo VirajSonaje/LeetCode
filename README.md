@@ -196,6 +196,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/VirajSonaje/LeetCode/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/VirajSonaje/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VirajSonaje/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0554-brick-wall](https://github.com/VirajSonaje/LeetCode/tree/master/0554-brick-wall) |
@@ -251,6 +252,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/VirajSonaje/LeetCode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VirajSonaje/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/VirajSonaje/LeetCode/tree/master/0726-number-of-atoms) |
 | [1333-sort-the-jumbled-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -272,6 +274,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | ------- |
 | [0006-zigzag-conversion](https://github.com/VirajSonaje/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/VirajSonaje/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0179-largest-number](https://github.com/VirajSonaje/LeetCode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/VirajSonaje/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0564-find-the-closest-palindrome](https://github.com/VirajSonaje/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0726-number-of-atoms](https://github.com/VirajSonaje/LeetCode/tree/master/0726-number-of-atoms) |
@@ -336,6 +339,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/VirajSonaje/LeetCode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/VirajSonaje/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/VirajSonaje/LeetCode/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/VirajSonaje/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
