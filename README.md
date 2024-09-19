@@ -178,6 +178,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | ------- |
 | [0002-add-two-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/0002-add-two-numbers) |
 | [0089-gray-code](https://github.com/VirajSonaje/LeetCode/tree/master/0089-gray-code) |
+| [0241-different-ways-to-add-parentheses](https://github.com/VirajSonaje/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/VirajSonaje/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/VirajSonaje/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/VirajSonaje/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -189,6 +190,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/VirajSonaje/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Union Find
 |  |
 | ------- |
@@ -276,6 +278,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0008-string-to-integer-atoi](https://github.com/VirajSonaje/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0179-largest-number](https://github.com/VirajSonaje/LeetCode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/VirajSonaje/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0241-different-ways-to-add-parentheses](https://github.com/VirajSonaje/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0564-find-the-closest-palindrome](https://github.com/VirajSonaje/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0726-number-of-atoms](https://github.com/VirajSonaje/LeetCode/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/VirajSonaje/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -367,6 +370,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/VirajSonaje/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/VirajSonaje/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/VirajSonaje/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VirajSonaje/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -396,4 +400,8 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/VirajSonaje/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/VirajSonaje/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
