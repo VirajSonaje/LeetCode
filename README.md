@@ -278,6 +278,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0008-string-to-integer-atoi](https://github.com/VirajSonaje/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0179-largest-number](https://github.com/VirajSonaje/LeetCode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/VirajSonaje/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/VirajSonaje/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/VirajSonaje/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0564-find-the-closest-palindrome](https://github.com/VirajSonaje/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0726-number-of-atoms](https://github.com/VirajSonaje/LeetCode/tree/master/0726-number-of-atoms) |
@@ -314,10 +315,12 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/VirajSonaje/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/VirajSonaje/LeetCode/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/VirajSonaje/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/VirajSonaje/LeetCode/tree/master/0214-shortest-palindrome) |
 ## Backtracking
 |  |
 | ------- |
@@ -404,4 +407,8 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/VirajSonaje/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/VirajSonaje/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
