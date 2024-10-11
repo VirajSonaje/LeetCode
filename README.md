@@ -220,6 +220,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [1741-sort-array-by-increasing-frequency](https://github.com/VirajSonaje/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/VirajSonaje/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/VirajSonaje/LeetCode/tree/master/1803-average-waiting-time) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/VirajSonaje/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/VirajSonaje/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VirajSonaje/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/VirajSonaje/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -245,6 +246,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [1694-make-sum-divisible-by-p](https://github.com/VirajSonaje/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VirajSonaje/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/VirajSonaje/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/VirajSonaje/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VirajSonaje/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/VirajSonaje/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/VirajSonaje/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -411,6 +413,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/VirajSonaje/LeetCode/tree/master/0264-ugly-number-ii) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/VirajSonaje/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Number Theory
 |  |
 | ------- |
