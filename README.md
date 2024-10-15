@@ -261,6 +261,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VirajSonaje/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/VirajSonaje/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/VirajSonaje/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/VirajSonaje/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -310,6 +311,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/VirajSonaje/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VirajSonaje/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VirajSonaje/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3195-separate-black-and-white-balls](https://github.com/VirajSonaje/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
 | ------- |
@@ -375,6 +377,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [1818-maximum-score-from-removing-substrings](https://github.com/VirajSonaje/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VirajSonaje/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/VirajSonaje/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3195-separate-black-and-white-balls](https://github.com/VirajSonaje/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Design
 |  |
 | ------- |
