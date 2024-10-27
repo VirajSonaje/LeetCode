@@ -210,6 +210,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [1256-rank-transform-of-an-array](https://github.com/VirajSonaje/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/VirajSonaje/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/VirajSonaje/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1435-xor-queries-of-a-subarray](https://github.com/VirajSonaje/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/VirajSonaje/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/VirajSonaje/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -268,6 +269,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VirajSonaje/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0729-my-calendar-i](https://github.com/VirajSonaje/LeetCode/tree/master/0729-my-calendar-i) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/VirajSonaje/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/VirajSonaje/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
@@ -277,6 +279,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0726-number-of-atoms](https://github.com/VirajSonaje/LeetCode/tree/master/0726-number-of-atoms) |
 | [1256-rank-transform-of-an-array](https://github.com/VirajSonaje/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/VirajSonaje/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/VirajSonaje/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VirajSonaje/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/VirajSonaje/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -407,6 +410,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0241-different-ways-to-add-parentheses](https://github.com/VirajSonaje/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/VirajSonaje/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/VirajSonaje/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/VirajSonaje/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VirajSonaje/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
 |  |
