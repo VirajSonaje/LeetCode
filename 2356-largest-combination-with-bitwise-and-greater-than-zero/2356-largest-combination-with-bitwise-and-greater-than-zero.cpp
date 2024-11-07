@@ -1,7 +1,7 @@
 class Solution {
 public:
     int largestCombination(vector<int>& candidates) {
-        int ans =0, n = candidates.size();
+        int ans =0;
         for(int i=0; i<32; i++){
             int temp =0;
             for(int candidate : candidates){
