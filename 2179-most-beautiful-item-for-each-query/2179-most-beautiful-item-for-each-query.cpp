@@ -1,55 +1,27 @@
-// class Solution {
-// public:
-//     vector<int> maximumBeauty(vector<vector<int>>& items, vector<int>& queries) {
-//         vector<int> ans;
-//         sort(items.begin(), items.end());
-//         int n = items.size();
-//         int maxb = items[0][1];
-//         for(int i=0; i<n; i++ ){
-//             maxb = max(maxb, items[i][1]);
-//             items[i][1] = maxb;
-//         }
-
-//         for(int query: queries){
-//             int num = *(upper_bound(query));
-//             ans.push_back(num);
-//         }
-
-//         return ans;
-//     }
-// };
-
-#include <vector>
-#include <algorithm>
-#include <climits>
-
-using namespace std;
-
 class Solution {
 public:
     vector<int> maximumBeauty(vector<vector<int>>& items, vector<int>& queries) {
-        int maxI = INT_MAX;
-        vector<vector<int>> res = {{0, 0, maxI}};
-
+        vector<int> ans;
         sort(items.begin(), items.end());
-
-        for (const auto& item : items) {
-            int price = item[0];
-            int beauty = item[1];
-            if (beauty > res.back()[1]) {
-                res.back()[2] = price;
-                res.push_back({price, beauty, maxI});
-            }
+        int n = items.size();
+        int maxb = items[0][1];
+        for(int i=0; i<n; i++ ){
+            maxb = max(maxb, items[i][1]);
+            items[i][1] = maxb;
         }
 
-        vector<int> ans;
-
-        for (int x : queries) {
-            for (int i = res.size() - 1; i >= 0; i--) {
-                if (res[i][0] <= x) {
-                    ans.push_back(res[i][1]);
-                    break;
-                }
+        for(int query: queries){
+            vector<int> pr = {query, INT_MAX};
+            auto num = upper_bound(items.begin(), items.end(), pr,
+            [](const vector<int> &a, const vector<int> &b){
+                return a[0] < b[0];
+            });
+            if(num == items.begin()){
+                ans.push_back(0);    
+            }
+            else{
+                num--;
+                ans.push_back((*num)[1]);
             }
         }
 
