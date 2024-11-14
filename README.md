@@ -229,6 +229,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [2163-kth-distinct-string-in-an-array](https://github.com/VirajSonaje/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/VirajSonaje/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/VirajSonaje/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/VirajSonaje/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/VirajSonaje/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/VirajSonaje/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2472-build-a-matrix-with-conditions](https://github.com/VirajSonaje/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -281,6 +282,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [1352-maximum-profit-in-job-scheduling](https://github.com/VirajSonaje/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/VirajSonaje/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/VirajSonaje/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/VirajSonaje/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/VirajSonaje/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
