@@ -1,37 +1,31 @@
 class Solution {
 public:
-    int target;
-    void sol(int sum , int ind, vector<int> candidates, vector<int> combination, vector<vector<int>> &ans){
-        cout<<sum<<" "<<ind<<endl;
-        if(ind==candidates.size()){
-            if(sum == target){
-            ans.push_back(combination);
-            return;
-            }
-            return;
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        set<vector<int>> sans;
+        vector<int> temp;
+        combine(sans, candidates, target, 0, 0, temp);
+
+        vector<vector<int>> ans; 
+        for(vector<int> v: sans){
+            ans.push_back(v);
         }
-        if(sum == target){
-            ans.push_back(combination);
-            return;
-        }
-        else if(sum < target){
-            sol(sum, ind+1, candidates, combination, ans);
-            if(target >= sum+candidates[ind]){
-                combination.push_back(candidates[ind]);
-                sol(sum+candidates[ind], ind, candidates, combination, ans);
-            }
-            
-        }
+        return ans;
 
     }
 
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        this->target = target;
-        vector<vector<int>> ans;
-        vector<int> combination;
-
-        sol(0, 0, candidates, combination, ans);
-
-        return ans;
+    void combine(set<vector<int>> &ans, vector<int> &candidates, int &target, 
+    int idx, int sum, vector<int> &arr){
+        if(sum > target) return;
+        if(sum == target) ans.insert(arr);
+        // cout<<idx<<" "<<candidates.size()<<endl;
+        arr.push_back(candidates[idx]);
+        sum+=candidates[idx];
+        combine(ans, candidates, target, idx, sum, arr);
+        if(idx < candidates.size()-1)
+        combine(ans, candidates, target, idx+1, sum, arr);
+        sum-=candidates[idx];
+        arr.pop_back();
+        if(idx < candidates.size()-1)
+        combine(ans, candidates, target, idx+1, sum, arr);
     }
 };
