@@ -267,6 +267,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/VirajSonaje/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VirajSonaje/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/VirajSonaje/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/VirajSonaje/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VirajSonaje/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -338,6 +339,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/VirajSonaje/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VirajSonaje/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VirajSonaje/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/VirajSonaje/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3024-string-transformation](https://github.com/VirajSonaje/LeetCode/tree/master/3024-string-transformation) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/VirajSonaje/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/VirajSonaje/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -371,6 +373,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0187-repeated-dna-sequences](https://github.com/VirajSonaje/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0567-permutation-in-string](https://github.com/VirajSonaje/LeetCode/tree/master/0567-permutation-in-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VirajSonaje/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/VirajSonaje/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/VirajSonaje/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Rolling Hash
 |  |
