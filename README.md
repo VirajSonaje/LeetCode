@@ -210,6 +210,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0729-my-calendar-i](https://github.com/VirajSonaje/LeetCode/tree/master/0729-my-calendar-i) |
 | [0870-magic-squares-in-grid](https://github.com/VirajSonaje/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/VirajSonaje/LeetCode/tree/master/0890-lemonade-change) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/VirajSonaje/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/VirajSonaje/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/VirajSonaje/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/VirajSonaje/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -256,6 +257,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0726-number-of-atoms](https://github.com/VirajSonaje/LeetCode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/VirajSonaje/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/VirajSonaje/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/VirajSonaje/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/VirajSonaje/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/VirajSonaje/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/VirajSonaje/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -439,6 +441,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | ------- |
 | [0079-word-search](https://github.com/VirajSonaje/LeetCode/tree/master/0079-word-search) |
 | [0870-magic-squares-in-grid](https://github.com/VirajSonaje/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/VirajSonaje/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/VirajSonaje/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/VirajSonaje/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/VirajSonaje/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
