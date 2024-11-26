@@ -159,6 +159,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VirajSonaje/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/VirajSonaje/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2472-build-a-matrix-with-conditions](https://github.com/VirajSonaje/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [3189-find-champion-ii](https://github.com/VirajSonaje/LeetCode/tree/master/3189-find-champion-ii) |
 ## Topological Sort
 |  |
 | ------- |
