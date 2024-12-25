@@ -143,6 +143,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/VirajSonaje/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/VirajSonaje/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/VirajSonaje/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1207-delete-nodes-and-return-forest](https://github.com/VirajSonaje/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/VirajSonaje/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/VirajSonaje/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -150,6 +151,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/VirajSonaje/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/VirajSonaje/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/VirajSonaje/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/VirajSonaje/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Graph
@@ -407,6 +409,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/VirajSonaje/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/VirajSonaje/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/VirajSonaje/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1207-delete-nodes-and-return-forest](https://github.com/VirajSonaje/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/VirajSonaje/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/VirajSonaje/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -415,6 +418,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/VirajSonaje/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/VirajSonaje/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/VirajSonaje/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1207-delete-nodes-and-return-forest](https://github.com/VirajSonaje/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/VirajSonaje/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/VirajSonaje/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
