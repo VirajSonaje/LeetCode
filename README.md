@@ -232,6 +232,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [1940-maximum-xor-for-each-query](https://github.com/VirajSonaje/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/VirajSonaje/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/VirajSonaje/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/VirajSonaje/LeetCode/tree/master/2145-grid-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VirajSonaje/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/VirajSonaje/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/VirajSonaje/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -456,6 +457,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [1496-lucky-numbers-in-a-matrix](https://github.com/VirajSonaje/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/VirajSonaje/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/VirajSonaje/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/VirajSonaje/LeetCode/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/VirajSonaje/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/VirajSonaje/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2685-first-completely-painted-row-or-column](https://github.com/VirajSonaje/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -497,6 +499,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [1435-xor-queries-of-a-subarray](https://github.com/VirajSonaje/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1694-make-sum-divisible-by-p](https://github.com/VirajSonaje/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/VirajSonaje/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [2145-grid-game](https://github.com/VirajSonaje/LeetCode/tree/master/2145-grid-game) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/VirajSonaje/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Brainteaser
 |  |
