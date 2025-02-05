@@ -281,6 +281,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [2685-first-completely-painted-row-or-column](https://github.com/VirajSonaje/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/VirajSonaje/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VirajSonaje/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VirajSonaje/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -359,6 +360,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [3024-string-transformation](https://github.com/VirajSonaje/LeetCode/tree/master/3024-string-transformation) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/VirajSonaje/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/VirajSonaje/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VirajSonaje/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
@@ -485,6 +487,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/VirajSonaje/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VirajSonaje/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/VirajSonaje/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VirajSonaje/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
