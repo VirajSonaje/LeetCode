@@ -186,6 +186,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0564-find-the-closest-palindrome](https://github.com/VirajSonaje/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/VirajSonaje/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/VirajSonaje/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [1477-product-of-the-last-k-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/VirajSonaje/LeetCode/tree/master/1642-water-bottles) |
 | [2448-count-number-of-bad-pairs](https://github.com/VirajSonaje/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/VirajSonaje/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -221,6 +222,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [1333-sort-the-jumbled-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/VirajSonaje/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1435-xor-queries-of-a-subarray](https://github.com/VirajSonaje/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1477-product-of-the-last-k-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/VirajSonaje/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/VirajSonaje/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/VirajSonaje/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -452,6 +454,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/VirajSonaje/LeetCode/tree/master/0729-my-calendar-i) |
+| [1477-product-of-the-last-k-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Segment Tree
 |  |
 | ------- |
@@ -514,6 +517,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/VirajSonaje/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1477-product-of-the-last-k-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1694-make-sum-divisible-by-p](https://github.com/VirajSonaje/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/VirajSonaje/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2145-grid-game](https://github.com/VirajSonaje/LeetCode/tree/master/2145-grid-game) |
@@ -535,4 +539,8 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/VirajSonaje/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
