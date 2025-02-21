@@ -209,6 +209,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VirajSonaje/LeetCode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/VirajSonaje/LeetCode/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/VirajSonaje/LeetCode/tree/master/0079-word-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VirajSonaje/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -302,6 +303,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VirajSonaje/LeetCode/tree/master/0011-container-with-most-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VirajSonaje/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/VirajSonaje/LeetCode/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/VirajSonaje/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -458,6 +460,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VirajSonaje/LeetCode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/VirajSonaje/LeetCode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/VirajSonaje/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/VirajSonaje/LeetCode/tree/master/0890-lemonade-change) |
