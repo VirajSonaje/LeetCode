@@ -363,6 +363,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0006-zigzag-conversion](https://github.com/VirajSonaje/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/VirajSonaje/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/VirajSonaje/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/VirajSonaje/LeetCode/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/VirajSonaje/LeetCode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/VirajSonaje/LeetCode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/VirajSonaje/LeetCode/tree/master/0187-repeated-dna-sequences) |
