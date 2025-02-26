@@ -6,11 +6,10 @@ public:
         int sum =0, minsum = INT_MAX, maxsum = INT_MIN;
         for(int i=0; i<n; i++){
             sum+=nums[i];
-            nums[i]=sum;
             minsum = min(minsum, sum);
             maxsum = max(maxsum, sum);
         }
         
-        return maxsum - minsum;
+        return max({abs(maxsum), abs(minsum), maxsum- minsum});
     }
 };
