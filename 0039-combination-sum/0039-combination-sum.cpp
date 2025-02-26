@@ -2,30 +2,40 @@ class Solution {
 public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         set<vector<int>> sans;
-        vector<int> temp;
-        combine(sans, candidates, target, 0, 0, temp);
+        sort(candidates.begin(), candidates.end());
+        vector<int> seq;
+        combine(target, candidates, 0, seq, 0, sans);
 
-        vector<vector<int>> ans; 
-        for(vector<int> v: sans){
+        vector<vector<int>> ans;
+        for(auto v: sans){
             ans.push_back(v);
         }
-        return ans;
 
+        return ans;
     }
 
-    void combine(set<vector<int>> &ans, vector<int> &candidates, int &target, 
-    int idx, int sum, vector<int> &arr){
-        if(sum > target) return;
-        if(sum == target) ans.insert(arr);
-        // cout<<idx<<" "<<candidates.size()<<endl;
-        arr.push_back(candidates[idx]);
-        sum+=candidates[idx];
-        combine(ans, candidates, target, idx, sum, arr);
-        if(idx < candidates.size()-1)
-        combine(ans, candidates, target, idx+1, sum, arr);
-        sum-=candidates[idx];
-        arr.pop_back();
-        if(idx < candidates.size()-1)
-        combine(ans, candidates, target, idx+1, sum, arr);
+    void combine(int target, vector<int> &candidates, 
+    int idx, vector<int> &seq, int sum, set<vector<int>> &sans){
+        if(sum == target) {
+            sans.insert(seq);
+            return;
+        }
+        
+        if(sum<target){
+            seq.push_back(candidates[idx]);
+            combine(target, candidates, idx, seq, sum+candidates[idx], sans);
+            seq.pop_back();
+            for(int i= idx+1; i<candidates.size(); i++){
+                seq.push_back(candidates[i]);
+                combine(target, candidates, i, seq, sum+candidates[i], sans);
+                seq.pop_back();
+            }
+        }
+        // if(idx+1 < candidates.size() && candidates[idx+1] <= target){
+        //     vector<int> ss;
+        //     ss.push_back(candidates[idx+1]);
+        //     combine(target, candidates, idx+1, ss, candidates[idx+1], sans);
+        // }
+        
     }
 };
