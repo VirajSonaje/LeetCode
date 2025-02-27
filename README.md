@@ -175,6 +175,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0002-add-two-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/VirajSonaje/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/VirajSonaje/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/VirajSonaje/LeetCode/tree/master/0146-lru-cache) |
 | [1484-linked-list-in-binary-tree](https://github.com/VirajSonaje/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/VirajSonaje/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/VirajSonaje/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -272,6 +273,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/VirajSonaje/LeetCode/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/VirajSonaje/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0264-ugly-number-ii](https://github.com/VirajSonaje/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VirajSonaje/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -477,6 +479,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/VirajSonaje/LeetCode/tree/master/0146-lru-cache) |
 | [0729-my-calendar-i](https://github.com/VirajSonaje/LeetCode/tree/master/0729-my-calendar-i) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/VirajSonaje/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -583,4 +586,8 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VirajSonaje/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/VirajSonaje/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
