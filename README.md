@@ -368,6 +368,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0008-string-to-integer-atoi](https://github.com/VirajSonaje/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/VirajSonaje/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/VirajSonaje/LeetCode/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/VirajSonaje/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/VirajSonaje/LeetCode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/VirajSonaje/LeetCode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/VirajSonaje/LeetCode/tree/master/0187-repeated-dna-sequences) |
@@ -507,6 +508,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/VirajSonaje/LeetCode/tree/master/0072-edit-distance) |
 | [0241-different-ways-to-add-parentheses](https://github.com/VirajSonaje/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/VirajSonaje/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/VirajSonaje/LeetCode/tree/master/0650-2-keys-keyboard) |
