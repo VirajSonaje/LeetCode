@@ -13,25 +13,18 @@ class Solution {
 public:
     int maxsum;
     int maxPathSum(TreeNode* root) {
-        maxsum =root->val;
+        maxsum = INT_MIN;
         findsum(root);
 
         return maxsum;
     }
 
-    int findsum(TreeNode* root){
-        if(root->left == NULL && root->right == NULL) return root->val;
-        int r =INT_MIN,l =INT_MIN;
-        if(root->left != NULL) l = findsum(root->left), maxsum = max(maxsum, l);
-        if(root->right != NULL) r = findsum(root->right), maxsum = max(maxsum, r);
-        if(r != INT_MIN && l != INT_MIN)maxsum = max(root->val+l+r, maxsum);
-        if(r != INT_MIN) maxsum = max(maxsum, r+root->val);
-        if(l != INT_MIN) maxsum = max(maxsum, l+root->val);  
-        
-        if(root->left == NULL) return max(root->val + r, root->val);
-        if(root->right == NULL) return max(root->val + l, root->val);
-        return max({root->val + r, root->val + l, root->val});
-
-
+    int findsum(TreeNode* node){
+        if (!node) return 0;
+        int leftMaxPath = max(findsum(node->left), 0);
+        int rightMaxPath = max(findsum(node->right), 0);
+        int maxIfNodeIsRoot = node->val + leftMaxPath + rightMaxPath;
+        maxsum = max(maxsum, maxIfNodeIsRoot);
+        return node->val + max(leftMaxPath, rightMaxPath);
     }
 };
