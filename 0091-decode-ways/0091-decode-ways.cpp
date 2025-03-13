@@ -9,9 +9,9 @@ public:
         dp[1] = 1;
         for(int i=2; i<=n;i++){
             int dw = stoi(s.substr(i-2, 2));
-            int single = stoi(s.substr(i-1,1));
+            int single = s[i-1]-'0';
             if(single >0) dp[i]+=dp[i-1];
-            if(dw <= 26 && s[i-1] != 0){
+            if(dw <= 26 && s[i-2] != '0'){
                 dp[i] += dp[i-2];
             }
         }
