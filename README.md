@@ -401,6 +401,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0038-count-and-say](https://github.com/VirajSonaje/LeetCode/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/VirajSonaje/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/VirajSonaje/LeetCode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/VirajSonaje/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/VirajSonaje/LeetCode/tree/master/0097-interleaving-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VirajSonaje/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/VirajSonaje/LeetCode/tree/master/0179-largest-number) |
@@ -556,6 +557,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | ------- |
 | [0064-minimum-path-sum](https://github.com/VirajSonaje/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/VirajSonaje/LeetCode/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/VirajSonaje/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/VirajSonaje/LeetCode/tree/master/0097-interleaving-string) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VirajSonaje/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VirajSonaje/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
