@@ -17,7 +17,7 @@ public:
         return ans;
     }
 
-    bool satisfy(vector<int> nums, int k, int mid){
+    bool satisfy(vector<int> &nums, int k, int mid){
         int count =0;
         for(int i=0; i<nums.size(); i++){
             if(nums[i] <= mid){
