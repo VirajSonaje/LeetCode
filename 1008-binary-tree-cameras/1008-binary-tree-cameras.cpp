@@ -26,11 +26,11 @@ public:
 
         if(left == 0 || right == 0){
             cams++;
-            return 2;
+            return 2; //Has camera
         }
         if(left== 2 || right == 2){
-            return 1;
+            return 1; // not needed
         }
-        return 0;
+        return 0; // no camera
     }
 };
