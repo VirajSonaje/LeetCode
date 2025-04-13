@@ -197,6 +197,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [1477-product-of-the-last-k-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/VirajSonaje/LeetCode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/VirajSonaje/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2050-count-good-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/VirajSonaje/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/VirajSonaje/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/VirajSonaje/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -211,6 +212,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0002-add-two-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/VirajSonaje/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0241-different-ways-to-add-parentheses](https://github.com/VirajSonaje/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [2050-count-good-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/2050-count-good-numbers) |
 ## Union Find
 |  |
 | ------- |
