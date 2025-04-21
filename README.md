@@ -268,6 +268,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/VirajSonaje/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/VirajSonaje/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/VirajSonaje/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2249-count-the-hidden-sequences](https://github.com/VirajSonaje/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/VirajSonaje/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/VirajSonaje/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/VirajSonaje/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -638,6 +639,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [1694-make-sum-divisible-by-p](https://github.com/VirajSonaje/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/VirajSonaje/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2145-grid-game](https://github.com/VirajSonaje/LeetCode/tree/master/2145-grid-game) |
+| [2249-count-the-hidden-sequences](https://github.com/VirajSonaje/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/VirajSonaje/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3643-zero-array-transformation-ii](https://github.com/VirajSonaje/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Brainteaser
