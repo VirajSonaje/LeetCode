@@ -295,6 +295,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VirajSonaje/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2846-robot-collisions](https://github.com/VirajSonaje/LeetCode/tree/master/2846-robot-collisions) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/VirajSonaje/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3194-find-words-containing-character](https://github.com/VirajSonaje/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/VirajSonaje/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/VirajSonaje/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/VirajSonaje/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -453,6 +454,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/VirajSonaje/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3024-string-transformation](https://github.com/VirajSonaje/LeetCode/tree/master/3024-string-transformation) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/VirajSonaje/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3194-find-words-containing-character](https://github.com/VirajSonaje/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/VirajSonaje/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VirajSonaje/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
