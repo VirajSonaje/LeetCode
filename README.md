@@ -685,6 +685,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VirajSonaje/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/VirajSonaje/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Divide and Conquer
 |  |
 | ------- |
