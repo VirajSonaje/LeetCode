@@ -307,6 +307,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VirajSonaje/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/VirajSonaje/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3643-zero-array-transformation-ii](https://github.com/VirajSonaje/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/VirajSonaje/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
