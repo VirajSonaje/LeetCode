@@ -198,6 +198,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0650-2-keys-keyboard](https://github.com/VirajSonaje/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/VirajSonaje/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1477-product-of-the-last-k-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/VirajSonaje/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1642-water-bottles](https://github.com/VirajSonaje/LeetCode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/VirajSonaje/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/2050-count-good-numbers) |
@@ -555,6 +556,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0179-largest-number](https://github.com/VirajSonaje/LeetCode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/VirajSonaje/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/VirajSonaje/LeetCode/tree/master/0890-lemonade-change) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/VirajSonaje/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/VirajSonaje/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/VirajSonaje/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VirajSonaje/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
