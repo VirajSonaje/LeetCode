@@ -181,6 +181,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0021-merge-two-sorted-lists](https://github.com/VirajSonaje/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/VirajSonaje/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/VirajSonaje/LeetCode/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/VirajSonaje/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/VirajSonaje/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1905-design-authentication-manager](https://github.com/VirajSonaje/LeetCode/tree/master/1905-design-authentication-manager) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/VirajSonaje/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -218,6 +219,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | ------- |
 | [0002-add-two-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/VirajSonaje/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/VirajSonaje/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/VirajSonaje/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/VirajSonaje/LeetCode/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/2050-count-good-numbers) |
