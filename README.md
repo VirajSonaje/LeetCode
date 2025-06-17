@@ -212,6 +212,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/VirajSonaje/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3024-string-transformation](https://github.com/VirajSonaje/LeetCode/tree/master/3024-string-transformation) |
 | [3227-find-missing-and-repeated-values](https://github.com/VirajSonaje/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/VirajSonaje/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -728,4 +729,8 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VirajSonaje/LeetCode/tree/master/0042-trapping-rain-water) |
+## Combinatorics
+|  |
+| ------- |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/VirajSonaje/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
