@@ -14,14 +14,14 @@ class Solution {
     int idx =0;
 public:
     int kthSmallest(TreeNode* root, int k) {
-        //post order traversal
+        //in order traversal
         int r = -1, l = -1;
         if(root->left)l = kthSmallest(root->left, k);
         if(l != -1) return l;
 
         idx++;
         if(k == idx) return root->val;
-        
+
         if(root->right)r = kthSmallest(root->right, k);
         if(r != -1) return r;
             
