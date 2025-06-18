@@ -24,17 +24,14 @@ public:
     void levelOrder(vector<int> &lvlOrder, queue<TreeNode*> &level){ 
         if(level.empty()) return;
         int n = level.size();
-        cout<<n<<endl;
         for(int i=0; i<n; i++){
             TreeNode* node = level.front();
             level.pop();
-            cout<<node->val<<" ";
             if(i == n-1) lvlOrder.push_back(node->val);
             if(node->left != NULL) level.push(node->left);
             if(node->right != NULL) level.push(node->right);
             
         }
-        cout<<endl;
 
         levelOrder(lvlOrder, level);
     }
