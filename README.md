@@ -144,6 +144,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0124-binary-tree-maximum-path-sum](https://github.com/VirajSonaje/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VirajSonaje/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/VirajSonaje/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/VirajSonaje/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/VirajSonaje/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1008-binary-tree-cameras](https://github.com/VirajSonaje/LeetCode/tree/master/1008-binary-tree-cameras) |
@@ -547,6 +548,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0124-binary-tree-maximum-path-sum](https://github.com/VirajSonaje/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VirajSonaje/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/VirajSonaje/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/VirajSonaje/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/VirajSonaje/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1008-binary-tree-cameras](https://github.com/VirajSonaje/LeetCode/tree/master/1008-binary-tree-cameras) |
 | [1207-delete-nodes-and-return-forest](https://github.com/VirajSonaje/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -559,6 +561,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0124-binary-tree-maximum-path-sum](https://github.com/VirajSonaje/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VirajSonaje/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/VirajSonaje/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/VirajSonaje/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/VirajSonaje/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1008-binary-tree-cameras](https://github.com/VirajSonaje/LeetCode/tree/master/1008-binary-tree-cameras) |
 | [1207-delete-nodes-and-return-forest](https://github.com/VirajSonaje/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -740,4 +743,8 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/VirajSonaje/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/VirajSonaje/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
