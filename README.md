@@ -310,6 +310,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/VirajSonaje/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/VirajSonaje/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/VirajSonaje/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/VirajSonaje/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/VirajSonaje/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/VirajSonaje/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/VirajSonaje/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -418,6 +419,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/VirajSonaje/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/VirajSonaje/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/VirajSonaje/LeetCode/tree/master/2846-robot-collisions) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/VirajSonaje/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/VirajSonaje/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/VirajSonaje/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Simulation
@@ -576,6 +578,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/VirajSonaje/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/VirajSonaje/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3195-separate-black-and-white-balls](https://github.com/VirajSonaje/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/VirajSonaje/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/VirajSonaje/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Design
 |  |
