@@ -244,6 +244,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VirajSonaje/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/VirajSonaje/LeetCode/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/VirajSonaje/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0321-create-maximum-number](https://github.com/VirajSonaje/LeetCode/tree/master/0321-create-maximum-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VirajSonaje/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0554-brick-wall](https://github.com/VirajSonaje/LeetCode/tree/master/0554-brick-wall) |
 | [0621-task-scheduler](https://github.com/VirajSonaje/LeetCode/tree/master/0621-task-scheduler) |
@@ -378,6 +379,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | ------- |
 | [0011-container-with-most-water](https://github.com/VirajSonaje/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/VirajSonaje/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0321-create-maximum-number](https://github.com/VirajSonaje/LeetCode/tree/master/0321-create-maximum-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VirajSonaje/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/VirajSonaje/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/VirajSonaje/LeetCode/tree/master/0567-permutation-in-string) |
@@ -499,6 +501,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0042-trapping-rain-water](https://github.com/VirajSonaje/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/VirajSonaje/LeetCode/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VirajSonaje/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0321-create-maximum-number](https://github.com/VirajSonaje/LeetCode/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/VirajSonaje/LeetCode/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/VirajSonaje/LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VirajSonaje/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -591,6 +594,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0011-container-with-most-water](https://github.com/VirajSonaje/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VirajSonaje/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/VirajSonaje/LeetCode/tree/master/0179-largest-number) |
+| [0321-create-maximum-number](https://github.com/VirajSonaje/LeetCode/tree/master/0321-create-maximum-number) |
 | [0621-task-scheduler](https://github.com/VirajSonaje/LeetCode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/VirajSonaje/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/VirajSonaje/LeetCode/tree/master/0890-lemonade-change) |
@@ -762,6 +766,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VirajSonaje/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0321-create-maximum-number](https://github.com/VirajSonaje/LeetCode/tree/master/0321-create-maximum-number) |
 ## Combinatorics
 |  |
 | ------- |
