@@ -293,6 +293,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [2308-divide-array-into-equal-pairs](https://github.com/VirajSonaje/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/VirajSonaje/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/VirajSonaje/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/VirajSonaje/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/VirajSonaje/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/VirajSonaje/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/VirajSonaje/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -418,6 +419,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [1741-sort-array-by-increasing-frequency](https://github.com/VirajSonaje/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/VirajSonaje/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/VirajSonaje/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/VirajSonaje/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/VirajSonaje/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/VirajSonaje/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/VirajSonaje/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -587,6 +589,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/VirajSonaje/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/VirajSonaje/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VirajSonaje/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/VirajSonaje/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/VirajSonaje/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/VirajSonaje/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3195-separate-black-and-white-balls](https://github.com/VirajSonaje/LeetCode/tree/master/3195-separate-black-and-white-balls) |
