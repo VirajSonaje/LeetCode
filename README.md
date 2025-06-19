@@ -300,6 +300,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [2478-longest-nice-subarray](https://github.com/VirajSonaje/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/VirajSonaje/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/VirajSonaje/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/VirajSonaje/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2551-apply-operations-to-an-array](https://github.com/VirajSonaje/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VirajSonaje/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/VirajSonaje/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -400,6 +401,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/VirajSonaje/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/VirajSonaje/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/VirajSonaje/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/VirajSonaje/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VirajSonaje/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/VirajSonaje/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/VirajSonaje/LeetCode/tree/master/2690-house-robber-iv) |
@@ -422,6 +424,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/VirajSonaje/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/VirajSonaje/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/VirajSonaje/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/VirajSonaje/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/VirajSonaje/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/VirajSonaje/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/VirajSonaje/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -591,6 +594,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VirajSonaje/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/VirajSonaje/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/VirajSonaje/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/VirajSonaje/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/VirajSonaje/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3195-separate-black-and-white-balls](https://github.com/VirajSonaje/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/VirajSonaje/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -696,6 +700,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [2145-grid-game](https://github.com/VirajSonaje/LeetCode/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/VirajSonaje/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/VirajSonaje/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/VirajSonaje/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3643-zero-array-transformation-ii](https://github.com/VirajSonaje/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Brainteaser
 |  |
