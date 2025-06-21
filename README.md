@@ -238,6 +238,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0011-container-with-most-water](https://github.com/VirajSonaje/LeetCode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/VirajSonaje/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/VirajSonaje/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/VirajSonaje/LeetCode/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/VirajSonaje/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/VirajSonaje/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/VirajSonaje/LeetCode/tree/master/0079-word-search) |
@@ -331,6 +332,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/VirajSonaje/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/VirajSonaje/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/VirajSonaje/LeetCode/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VirajSonaje/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -418,6 +420,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/VirajSonaje/LeetCode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/VirajSonaje/LeetCode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VirajSonaje/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0621-task-scheduler](https://github.com/VirajSonaje/LeetCode/tree/master/0621-task-scheduler) |
@@ -465,6 +468,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0008-string-to-integer-atoi](https://github.com/VirajSonaje/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/VirajSonaje/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/VirajSonaje/LeetCode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/VirajSonaje/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/VirajSonaje/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/VirajSonaje/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/VirajSonaje/LeetCode/tree/master/0079-word-search) |
