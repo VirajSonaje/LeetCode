@@ -41,7 +41,6 @@ public:
             }
             if(flag) ans++;
         }
-        cout<<freshCount << " " << ans;
         return (freshCount == 0) ? ans : -1;
     }
 };
