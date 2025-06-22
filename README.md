@@ -186,6 +186,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0023-merge-k-sorted-lists](https://github.com/VirajSonaje/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/VirajSonaje/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/VirajSonaje/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0460-lfu-cache](https://github.com/VirajSonaje/LeetCode/tree/master/0460-lfu-cache) |
 | [1484-linked-list-in-binary-tree](https://github.com/VirajSonaje/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1905-design-authentication-manager](https://github.com/VirajSonaje/LeetCode/tree/master/1905-design-authentication-manager) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/VirajSonaje/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -339,6 +340,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0187-repeated-dna-sequences](https://github.com/VirajSonaje/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0264-ugly-number-ii](https://github.com/VirajSonaje/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VirajSonaje/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0460-lfu-cache](https://github.com/VirajSonaje/LeetCode/tree/master/0460-lfu-cache) |
 | [0554-brick-wall](https://github.com/VirajSonaje/LeetCode/tree/master/0554-brick-wall) |
 | [0567-permutation-in-string](https://github.com/VirajSonaje/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/VirajSonaje/LeetCode/tree/master/0621-task-scheduler) |
@@ -624,6 +626,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/VirajSonaje/LeetCode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/VirajSonaje/LeetCode/tree/master/0460-lfu-cache) |
 | [0729-my-calendar-i](https://github.com/VirajSonaje/LeetCode/tree/master/0729-my-calendar-i) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/VirajSonaje/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/VirajSonaje/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -766,6 +769,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/VirajSonaje/LeetCode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/VirajSonaje/LeetCode/tree/master/0460-lfu-cache) |
 | [1905-design-authentication-manager](https://github.com/VirajSonaje/LeetCode/tree/master/1905-design-authentication-manager) |
 ## Queue
 |  |
