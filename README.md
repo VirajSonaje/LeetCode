@@ -455,6 +455,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [2048-build-array-from-permutation](https://github.com/VirajSonaje/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/VirajSonaje/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/VirajSonaje/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/VirajSonaje/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/VirajSonaje/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/VirajSonaje/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/VirajSonaje/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -498,6 +499,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VirajSonaje/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/VirajSonaje/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VirajSonaje/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/VirajSonaje/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/VirajSonaje/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/VirajSonaje/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3024-string-transformation](https://github.com/VirajSonaje/LeetCode/tree/master/3024-string-transformation) |
