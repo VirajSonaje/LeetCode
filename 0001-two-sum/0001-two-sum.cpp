@@ -5,12 +5,12 @@ public:
         int difference;
 
         for(int i = 0; i < nums.size(); i++ ){
-            difference = target - nums.at(i);
+            difference = target - nums[i];
             if(umap.find(difference) != umap.end()) {
                 vector<int> v{umap[difference], i};
                 return v;
             } else {
-                umap[nums.at(i)] = i;
+                umap[nums[i]] = i;
             }
         }
 
