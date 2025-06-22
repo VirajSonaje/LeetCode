@@ -1,13 +1,14 @@
 class Solution {
 public:
     string decodeString(string s) {
-        return helper(s, 0);
+        int i=0;
+        return helper(s, i);
     }
 
-    string helper(string& s, int &i){
+    string helper(string& s, int& i){
         string ans; 
         while(i<s.length() && s[i] != ']'){
-            cout<<i<<endl;
+            // cout<<i<<endl;
             if(!isdigit(s[i])){
                 ans+=s[i];
                 i++;
