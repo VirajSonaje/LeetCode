@@ -486,6 +486,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0072-edit-distance](https://github.com/VirajSonaje/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/VirajSonaje/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/VirajSonaje/LeetCode/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/VirajSonaje/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/VirajSonaje/LeetCode/tree/master/0097-interleaving-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VirajSonaje/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/VirajSonaje/LeetCode/tree/master/0179-largest-number) |
@@ -581,6 +582,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [0039-combination-sum](https://github.com/VirajSonaje/LeetCode/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/VirajSonaje/LeetCode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/VirajSonaje/LeetCode/tree/master/0089-gray-code) |
+| [0093-restore-ip-addresses](https://github.com/VirajSonaje/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0216-combination-sum-iii](https://github.com/VirajSonaje/LeetCode/tree/master/0216-combination-sum-iii) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/VirajSonaje/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/VirajSonaje/LeetCode/tree/master/2107-find-unique-binary-string) |
