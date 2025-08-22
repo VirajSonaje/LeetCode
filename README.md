@@ -335,6 +335,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [3291-find-if-array-can-be-sorted](https://github.com/VirajSonaje/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/VirajSonaje/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/VirajSonaje/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VirajSonaje/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3483-alternating-groups-ii](https://github.com/VirajSonaje/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VirajSonaje/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/VirajSonaje/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -682,6 +683,7 @@ Solutions of LeetCode Problems. Profile link: [LeetCode](https://leetcode.com/Tr
 | [2472-build-a-matrix-with-conditions](https://github.com/VirajSonaje/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2685-first-completely-painted-row-or-column](https://github.com/VirajSonaje/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/VirajSonaje/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VirajSonaje/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Dynamic Programming
 |  |
 | ------- |
